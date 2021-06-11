@@ -17,3 +17,11 @@ Add the builder job to your shared.lua
 },
 
 Add to the city hall
+
+# Whats been added/changed
+
+- Task Animations
+- Blip when on job
+- Recive money when completed
+- new locations
+- Added task names to task
