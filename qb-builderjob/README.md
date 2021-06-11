@@ -21,6 +21,7 @@ Add to the city hall
 # Whats been added/changed
 
 - Task Animations
+- Imporved positions
 - Blip when on job
 - Recive money when completed
 - new locations
